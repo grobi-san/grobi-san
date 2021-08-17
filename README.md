@@ -10,7 +10,7 @@
 - ideally all of the above in one
 
 
-### 📫 Reach me @grob@mstdn.social
+📫 Reach me grob@mstdn.social
 
 <!---
 grobi-san/grobi-san is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
